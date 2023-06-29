@@ -24,7 +24,7 @@ To get started with SLI, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Siddharth-Chandel/SLI.git`
 
-2. Download [Assets](https://drive.google.com/file/d/1-4jEROk_UR_UG2OlA6MZh9Em1BchEUGy/view?usp=sharing) and unzip it in root directory.
+2. Download [Assets](https://drive.google.com/file/d/1-4jEROk_UR_UG2OlA6MZh9Em1BchEUGy/view?usp=sharing) and unzip it in the root directory.
 
 3. Install the required dependencies listed in the `requirements.txt` file.
 
