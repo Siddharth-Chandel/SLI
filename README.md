@@ -24,11 +24,13 @@ To get started with SLI, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Siddharth-Chandel/SLI.git`
 
-2. Install the required dependencies listed in the `requirements.txt` file.
+2. Download assets folder from https://drive.google.com/file/d/1-4jEROk_UR_UG2OlA6MZh9Em1BchEUGy/view?usp=sharing and unzip it in root directory.
 
-3. Set up the hardware and camera system to capture sign language gestures accurately.
+3. Install the required dependencies listed in the `requirements.txt` file.
 
-4. Launch the application and start interpreting sign language gestures.
+4. Set up the hardware and camera system to capture sign language gestures accurately.
+
+5. Launch the application and start interpreting sign language gestures.
 
 
 For detailed instructions on installation, configuration, and usage, please refer to the [User Guide](user-guide.md).
